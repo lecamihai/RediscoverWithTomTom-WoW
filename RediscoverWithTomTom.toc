@@ -1,0 +1,13 @@
+## Interface: 100207, 110000, 110002
+## Title: Rediscover with TomTom
+## Notes: Adds custom waypoints for exploration achievements.
+## Author: L3ca
+## Dependencies: TomTom
+## Version: 1.0
+## SavedVariables: xpModeData
+## IconTexture: Interface\AddOns\RediscoverWithTomTom\Files\638618407558556813
+
+RediscoverWithTomTom_Data.lua
+RediscoverWithTomTom.lua
+RediscoverWithTomTom_Options.lua
+RediscoverWithTomTom_Achievement_Frame.lua
